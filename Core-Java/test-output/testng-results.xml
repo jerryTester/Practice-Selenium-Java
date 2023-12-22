@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-26T17:20:09 MDT" name="Default suite" finished-at="2023-06-26T17:20:09 MDT" duration-ms="126">
+    <groups>
+    </groups>
+    <test started-at="2023-06-26T17:20:09 MDT" name="Default test" finished-at="2023-06-26T17:20:09 MDT" duration-ms="126">
+      <class name="default_package.PS1">
+        <test-method is-config="true" signature="didThis()[pri:0, instance:default_package.PS1@69b2283a]" started-at="2023-06-26T17:20:09 MDT" name="didThis" finished-at="2023-06-26T17:20:09 MDT" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- didThis -->
+        <test-method signature="doThat()[pri:0, instance:default_package.PS1@69b2283a]" started-at="2023-06-26T17:20:09 MDT" name="doThat" finished-at="2023-06-26T17:20:09 MDT" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doThat -->
+      </class> <!-- default_package.PS1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
